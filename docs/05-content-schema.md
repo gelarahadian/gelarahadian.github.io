@@ -7,6 +7,7 @@
   "name": "",
   "role": "",
   "tagline": "",
+  "introduction": "",
   "location": "",
   "bio": [],
   "avatar": ""

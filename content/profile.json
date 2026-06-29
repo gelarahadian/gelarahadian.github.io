@@ -2,7 +2,12 @@
   "name": "Gelar Rahadian Fajar",
   "role": "Full-Stack Developer / Frontend Developer",
   "tagline": "Creating beautiful user experiences.",
+  "introduction": "I build thoughtful, accessible web experiences with a focus on clean interfaces, reliable engineering, and the details that make products feel effortless.",
   "location": "",
-  "bio": [],
+  "bio": [
+    "I’m a developer focused on creating polished web experiences where thoughtful design and dependable engineering work together. I enjoy turning complex requirements into interfaces that feel clear, intuitive, and easy to use.",
+    "My work spans frontend and full-stack development, with particular attention to maintainable architecture, accessibility, responsive behavior, and performance. I approach each project as a product problem—not only a coding task.",
+    "I care about the details that users notice and the foundations they do not: consistent systems, readable code, sensible tradeoffs, and software that remains reliable as it grows."
+  ],
   "avatar": ""
 }
