@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "company": "Activist",
+    "position": "Open Source Contributor",
+    "duration": "March 2026 — Present",
+    "description": "Refactored more than 10 modal components and centralized global state with Pinia. Improved component mounting performance, contributed maintainable code and testing standards, and helped achieve more than 90% test coverage.",
+    "technologies": ["Vue.js", "Pinia", "Vitest", "Playwright"]
+  },
+  {
+    "company": "Fastwork · Freelance",
+    "position": "Full-Stack Developer",
+    "duration": "January 2024 — March 2025",
+    "description": "Maintained scalable full-stack applications, delivered product features, and resolved production issues. Designed RESTful API integrations that reduced latency by 20% while working in a remote, agile development workflow.",
+    "technologies": ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "REST APIs"]
+  }
+]

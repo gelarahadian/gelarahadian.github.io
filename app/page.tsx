@@ -29,7 +29,7 @@ export default function Home() {
       <main>
         <Hero profile={profile} socials={socials} statistics={statistics} />
         <About profile={profile} />
-        <ExperienceList experiences={experiences} />
+        <ExperienceList experiences={experiences} resumeUrl={socials.resume} />
         <ProjectList projects={projects} />
         <WritingList articles={articles} />
       </main>
